@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">HealthyEat</string>
+    <string name="loginString">Sign In</string>
+    <string name="usernameString">Username</string>
+    <string name="passwordString">Password</string>
+    <string name="signup_question_text">Don\'t Have an Account?</string>
+    <string name="signUpString">Sign Up</string>
+    <string name="emailString">Email</string>
+    <string name="signupButtonText">Sign Up</string>
+    <string name="have_account_text">Already Have an Account?</string>
+    <string name="error_string">Cannot Detect Images</string>
+    <string name="error_content_string">Not Found</string>
+    <string name="insert_password">Insert Password</string>
+    <string name="insert_email">Insert Email</string>
+    <string name="insert_username">Insert Username</string>
+    <string name="history_text">History</string>
+    <string name="placeholder_text">Fruit</string>
+    <string name="time">12/07/2024,\n 15:30</string>
+    <string name="detail">Detail</string>
+    <string name="fruit_detail_placeholder">Apple</string>
+    <string name="detail_description">Description</string>
+    <string name="detail_Interesfact_title">Interesting Facts</string>
+    <string name="confirmPasswordString">Confirm Password</string>
+    <string name="grade">Grade</string>
+    <string name="bad">Bad</string>
+    <string name="condition_percent_placeholder">90,75%</string>
+    <string name="go_back_home">Go Back Home</string>
+    <string name="nutrition">Nutrition</string>
+
+    /Nutrition/
+    <string name="allergy">Allergy</string>
+    <string name="energy_kcal_kj">Energy (kcal/kJ)</string>
+    <string name="water_g">Water (g)</string>
+    <string name="protein_g">Protein (g)</string>
+    <string name="total_fat_g">Total Fat (g)</string>
+    <string name="carbohydrates_g">Carbohydrates (g)</string>
+    <string name="fiber_g">Fiber (g)</string>
+    <string name="sugar_g">Sugar (g)</string>
+    <string name="calsium_mg">Calsium (mg)</string>
+    <string name="iron_mg">Iron (mg)</string>
+    <string name="oral_allergy_syndrome">Oral Allergy Syndrome</string>
+    <string name="allery">Allery</string>
+    <string name="_17">17</string>
+    <string name="_65_72">65/72</string>
+    <string name="_1_8">1.8</string>
+    <string name="_0_51">0.51</string>
+    <string name="_14_8">14.8</string>
+    <string name="_0_27">0.27</string>
+    <string name="_81_71">81.71</string>
+
+    /Content Description/
+    <string name="result">result</string>
+    <string name="logo">logo</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="desc_home">Introducing HealthyEat Your ultimate companion for healthy eating! This innovative app revolutionizes your dietary habits by harnessing the power of image recognition technology to identify fruits instantly. Whether you\'re at the grocery store, farmer\'s market, or simply exploring your backyard orchard, HealthyEat makes identifying fruits as easy as snapping a photo.</string>
+    <string name="sign_out">Sign_out</string>
+    <string name="history_img">history_img</string>
+    <string name="selector">selector</string>
+    <string name="lock">lock</string>
+    <string name="result_img">result_img</string>
+    <string name="img">img</string>
+</resources>
